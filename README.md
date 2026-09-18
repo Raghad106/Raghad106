@@ -96,14 +96,6 @@ A full Android e-commerce application built with modern Android technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-![Raghad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghad106&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad106&layout=compact&theme=transparent)
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghd-mahmoud-320812280/)
