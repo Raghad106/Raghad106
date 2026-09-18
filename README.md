@@ -99,7 +99,7 @@ A full Android e-commerce application built with modern Android technologies.
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghd-mahmoud-320812280/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](
 raghad.mahmoud.aboallkass@gmail.com)
 <!--
 **Raghad106/Raghad106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
