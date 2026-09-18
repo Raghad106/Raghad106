@@ -1,4 +1,4 @@
-# Hi, I'm Raghd Abualkas👋
+# Hello everyone, I'm Raghd Abualkas👋
 
 📱 Mobile Developer  
 🤖 Android Developer — Kotlin & Jetpack Compose  
